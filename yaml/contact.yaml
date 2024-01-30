@@ -1,0 +1,8 @@
+contact:
+  firstname: Carl
+  lastname: Jung
+  email: carl.jung@audela.org
+  address:
+    city: Zurich
+    postalCode: 8001
+    country: Suisse
