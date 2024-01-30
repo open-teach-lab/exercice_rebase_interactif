@@ -2,6 +2,7 @@ voiture:
   marque: Toyota
   modele: Aygo
   annee: 2006
+  puissanceFiscale: 4CV
   dimensions:
     poids: 800kg
     longueur: 3,41m
