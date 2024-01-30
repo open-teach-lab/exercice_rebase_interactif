@@ -1,9 +1,9 @@
 contact:
-  firstname: Carl
-  lastname: Jung
+  prenom: Carl
+  nom: Jung
   email: carl.jung@audela.org
-  birthdate: 1875-07-26
-  address:
-    city: Zurich
-    postalCode: 8001
-    country: Suisse
+  dateNaissance: 1875-07-26
+  adresse:
+    ville: Zurich
+    codePostal: 8001
+    pays: Suisse
