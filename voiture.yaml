@@ -3,6 +3,7 @@ voiture:
   modele: Aygo
   annee: 2006
   dimensions:
+    poids: 800kg
     longueur: 3,41m
     largeur: 1,62m
     hauteur: 1,47m
